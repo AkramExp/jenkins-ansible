@@ -13,7 +13,7 @@ Ansible is used automate the process of making servers ready for deployment and 
 - Ansible server is also setup on CIVO Cloud.
 - Copy deploy files from GitHub to ansible server with Jenkinsfile.
 - Ansible server is setup with the shell script file with docker install.
-- After copying all the neccessary files, ran the ansible playbook to deploy application with the help of docker.
+- After copying all the neccessary files, ran the ansible playbook to deploy application on AWS Cloud with the help of docker.
 
 
 
